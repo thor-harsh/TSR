@@ -67,7 +67,7 @@ The performance of each model is evaluated on the test dataset:
 - TensorFlow Object Detection API
 
 ## Author
-[Harsh Prakash](https://github.com/thorharsh)
+[Mukim Ahmed](https://github.com/thorharsh)
 
 ## License
 This project is licensed under the MIT License.
