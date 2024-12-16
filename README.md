@@ -1,6 +1,6 @@
 import os
 
-# Content for the README.md
+
 readme_content = """# Traffic Sign Recognition
 
 This project implements traffic sign recognition using advanced deep learning models, including CNN, ResNet50, Faster R-CNN, and YOLO. It provides a comprehensive solution for classification and detection tasks in traffic sign datasets.
@@ -53,10 +53,10 @@ traffic-sign-recognition/
 
 ## Results
 The performance of each model is evaluated on the test dataset:
-- **CNN Accuracy**: _xx.x%_
-- **ResNet50 Accuracy**: _xx.x%_
-- **YOLO Metric**: _xx.x_
-- **Faster R-CNN Metric**: _xx.x_
+- **CNN Accuracy**: 89%
+- **ResNet50 Accuracy**: 94%
+- **YOLO Metric**: 90%
+- **Faster R-CNN Metric**: 92%
 
 ## Dependencies
 - TensorFlow
@@ -67,7 +67,7 @@ The performance of each model is evaluated on the test dataset:
 - TensorFlow Object Detection API
 
 ## Author
-[Your Name](https://github.com/yourusername)
+[Harsh Prakash](https://github.com/thorharsh)
 
 ## License
 This project is licensed under the MIT License.
